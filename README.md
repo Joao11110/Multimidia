@@ -37,7 +37,7 @@ https://www.python.org/downloads/
 - Ainda no terminal vá até o diretório da pasta e digite:
 
 ```
-cd caminho/para/a/pasta/Multimidia
+cd caminho/para/a/pasta/Multimidia/Unidade1/
 ```
 
 - Agora dentro do diretório crie um servidor para conseguir carregar o arquivo de música:
